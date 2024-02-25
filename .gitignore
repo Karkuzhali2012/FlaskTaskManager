@@ -1,0 +1,31 @@
+# Environments
+.vscode
+.env
+.venv
+env/
+venv/
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Local Project:
+*.log
+
+# Byte-compiled / Cache / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# System General
+.DS_Store
+db_schema.txt
